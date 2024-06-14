@@ -1,1 +1,2 @@
-nvim config
+LazyVim: https://www.lazyvim.org/
+Fuentes: https://www.nerdfonts.com/font-downloads
